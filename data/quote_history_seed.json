@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "text": "Sample quotation 1 for API fallback testing.",
+    "author": "Sample Author 14",
+    "topic": "Learning"
+  },
+  {
+    "id": 2,
+    "text": "Sample quotation 2 for API fallback testing.",
+    "author": "Sample Author 19",
+    "topic": "Work"
+  },
+  {
+    "id": 3,
+    "text": "Sample quotation 3 for API fallback testing.",
+    "author": "Sample Author 10",
+    "topic": "Learning"
+  },
+  {
+    "id": 4,
+    "text": "Sample quotation 4 for API fallback testing.",
+    "author": "Sample Author 16",
+    "topic": "Work"
+  },
+  {
+    "id": 5,
+    "text": "Sample quotation 5 for API fallback testing.",
+    "author": "Sample Author 8",
+    "topic": "Creativity"
+  },
+  {
+    "id": 6,
+    "text": "Sample quotation 6 for API fallback testing.",
+    "author": "Sample Author 1",
+    "topic": "Creativity"
+  },
+  {
+    "id": 7,
+    "text": "Sample quotation 7 for API fallback testing.",
+    "author": "Sample Author 10",
+    "topic": "Creativity"
+  },
+  {
+    "id": 8,
+    "text": "Sample quotation 8 for API fallback testing.",
+    "author": "Sample Author 5",
+    "topic": "Learning"
+  },
+  {
+    "id": 9,
+    "text": "Sample quotation 9 for API fallback testing.",
+    "author": "Sample Author 8",
+    "topic": "Creativity"
+  },
+  {
+    "id": 10,
+    "text": "Sample quotation 10 for API fallback testing.",
+    "author": "Sample Author 11",
+    "topic": "Work"
+  },
+  {
+    "id": 11,
+    "text": "Sample quotation 11 for API fallback testing.",
+    "author": "Sample Author 10",
+    "topic": "Learning"
+  },
+  {
+    "id": 12,
+    "text": "Sample quotation 12 for API fallback testing.",
+    "author": "Sample Author 2",
+    "topic": "Creativity"
+  },
+  {
+    "id": 13,
+    "text": "Sample quotation 13 for API fallback testing.",
+    "author": "Sample Author 5",
+    "topic": "Creativity"
+  },
+  {
+    "id": 14,
+    "text": "Sample quotation 14 for API fallback testing.",
+    "author": "Sample Author 11",
+    "topic": "Work"
+  },
+  {
+    "id": 15,
+    "text": "Sample quotation 15 for API fallback testing.",
+    "author": "Sample Author 6",
+    "topic": "Work"
+  },
+  {
+    "id": 16,
+    "text": "Sample quotation 16 for API fallback testing.",
+    "author": "Sample Author 9",
+    "topic": "Creativity"
+  },
+  {
+    "id": 17,
+    "text": "Sample quotation 17 for API fallback testing.",
+    "author": "Sample Author 17",
+    "topic": "Learning"
+  },
+  {
+    "id": 18,
+    "text": "Sample quotation 18 for API fallback testing.",
+    "author": "Sample Author 16",
+    "topic": "Work"
+  },
+  {
+    "id": 19,
+    "text": "Sample quotation 19 for API fallback testing.",
+    "author": "Sample Author 5",
+    "topic": "Creativity"
+  },
+  {
+    "id": 20,
+    "text": "Sample quotation 20 for API fallback testing.",
+    "author": "Sample Author 11",
+    "topic": "Work"
+  },
+  {
+    "id": 21,
+    "text": "Sample quotation 21 for API fallback testing.",
+    "author": "Sample Author 10",
+    "topic": "Creativity"
+  },
+  {
+    "id": 22,
+    "text": "Sample quotation 22 for API fallback testing.",
+    "author": "Sample Author 7",
+    "topic": "Learning"
+  },
+  {
+    "id": 23,
+    "text": "Sample quotation 23 for API fallback testing.",
+    "author": "Sample Author 11",
+    "topic": "Learning"
+  },
+  {
+    "id": 24,
+    "text": "Sample quotation 24 for API fallback testing.",
+    "author": "Sample Author 11",
+    "topic": "Creativity"
+  },
+  {
+    "id": 25,
+    "text": "Sample quotation 25 for API fallback testing.",
+    "author": "Sample Author 3",
+    "topic": "Learning"
+  },
+  {
+    "id": 26,
+    "text": "Sample quotation 26 for API fallback testing.",
+    "author": "Sample Author 9",
+    "topic": "Learning"
+  },
+  {
+    "id": 27,
+    "text": "Sample quotation 27 for API fallback testing.",
+    "author": "Sample Author 4",
+    "topic": "Creativity"
+  },
+  {
+    "id": 28,
+    "text": "Sample quotation 28 for API fallback testing.",
+    "author": "Sample Author 6",
+    "topic": "Creativity"
+  },
+  {
+    "id": 29,
+    "text": "Sample quotation 29 for API fallback testing.",
+    "author": "Sample Author 7",
+    "topic": "Learning"
+  },
+  {
+    "id": 30,
+    "text": "Sample quotation 30 for API fallback testing.",
+    "author": "Sample Author 7",
+    "topic": "Creativity"
+  },
+  {
+    "id": 31,
+    "text": "Sample quotation 31 for API fallback testing.",
+    "author": "Sample Author 5",
+    "topic": "Creativity"
+  },
+  {
+    "id": 32,
+    "text": "Sample quotation 32 for API fallback testing.",
+    "author": "Sample Author 6",
+    "topic": "Creativity"
+  },
+  {
+    "id": 33,
+    "text": "Sample quotation 33 for API fallback testing.",
+    "author": "Sample Author 1",
+    "topic": "Work"
+  },
+  {
+    "id": 34,
+    "text": "Sample quotation 34 for API fallback testing.",
+    "author": "Sample Author 1",
+    "topic": "Creativity"
+  },
+  {
+    "id": 35,
+    "text": "Sample quotation 35 for API fallback testing.",
+    "author": "Sample Author 17",
+    "topic": "Work"
+  },
+  {
+    "id": 36,
+    "text": "Sample quotation 36 for API fallback testing.",
+    "author": "Sample Author 14",
+    "topic": "Creativity"
+  },
+  {
+    "id": 37,
+    "text": "Sample quotation 37 for API fallback testing.",
+    "author": "Sample Author 4",
+    "topic": "Learning"
+  },
+  {
+    "id": 38,
+    "text": "Sample quotation 38 for API fallback testing.",
+    "author": "Sample Author 17",
+    "topic": "Learning"
+  },
+  {
+    "id": 39,
+    "text": "Sample quotation 39 for API fallback testing.",
+    "author": "Sample Author 13",
+    "topic": "Learning"
+  },
+  {
+    "id": 40,
+    "text": "Sample quotation 40 for API fallback testing.",
+    "author": "Sample Author 10",
+    "topic": "Work"
+  },
+  {
+    "id": 41,
+    "text": "Sample quotation 41 for API fallback testing.",
+    "author": "Sample Author 3",
+    "topic": "Learning"
+  },
+  {
+    "id": 42,
+    "text": "Sample quotation 42 for API fallback testing.",
+    "author": "Sample Author 3",
+    "topic": "Creativity"
+  },
+  {
+    "id": 43,
+    "text": "Sample quotation 43 for API fallback testing.",
+    "author": "Sample Author 18",
+    "topic": "Creativity"
+  },
+  {
+    "id": 44,
+    "text": "Sample quotation 44 for API fallback testing.",
+    "author": "Sample Author 13",
+    "topic": "Creativity"
+  },
+  {
+    "id": 45,
+    "text": "Sample quotation 45 for API fallback testing.",
+    "author": "Sample Author 6",
+    "topic": "Creativity"
+  },
+  {
+    "id": 46,
+    "text": "Sample quotation 46 for API fallback testing.",
+    "author": "Sample Author 16",
+    "topic": "Creativity"
+  },
+  {
+    "id": 47,
+    "text": "Sample quotation 47 for API fallback testing.",
+    "author": "Sample Author 13",
+    "topic": "Creativity"
+  },
+  {
+    "id": 48,
+    "text": "Sample quotation 48 for API fallback testing.",
+    "author": "Sample Author 2",
+    "topic": "Creativity"
+  },
+  {
+    "id": 49,
+    "text": "Sample quotation 49 for API fallback testing.",
+    "author": "Sample Author 20",
+    "topic": "Learning"
+  },
+  {
+    "id": 50,
+    "text": "Sample quotation 50 for API fallback testing.",
+    "author": "Sample Author 11",
+    "topic": "Creativity"
+  },
+  {
+    "id": 51,
+    "text": "Sample quotation 51 for API fallback testing.",
+    "author": "Sample Author 16",
+    "topic": "Creativity"
+  },
+  {
+    "id": 52,
+    "text": "Sample quotation 52 for API fallback testing.",
+    "author": "Sample Author 10",
+    "topic": "Work"
+  },
+  {
+    "id": 53,
+    "text": "Sample quotation 53 for API fallback testing.",
+    "author": "Sample Author 9",
+    "topic": "Creativity"
+  },
+  {
+    "id": 54,
+    "text": "Sample quotation 54 for API fallback testing.",
+    "author": "Sample Author 3",
+    "topic": "Creativity"
+  },
+  {
+    "id": 55,
+    "text": "Sample quotation 55 for API fallback testing.",
+    "author": "Sample Author 9",
+    "topic": "Learning"
+  },
+  {
+    "id": 56,
+    "text": "Sample quotation 56 for API fallback testing.",
+    "author": "Sample Author 18",
+    "topic": "Work"
+  },
+  {
+    "id": 57,
+    "text": "Sample quotation 57 for API fallback testing.",
+    "author": "Sample Author 6",
+    "topic": "Work"
+  },
+  {
+    "id": 58,
+    "text": "Sample quotation 58 for API fallback testing.",
+    "author": "Sample Author 11",
+    "topic": "Learning"
+  },
+  {
+    "id": 59,
+    "text": "Sample quotation 59 for API fallback testing.",
+    "author": "Sample Author 3",
+    "topic": "Creativity"
+  },
+  {
+    "id": 60,
+    "text": "Sample quotation 60 for API fallback testing.",
+    "author": "Sample Author 20",
+    "topic": "Learning"
+  },
+  {
+    "id": 61,
+    "text": "Sample quotation 61 for API fallback testing.",
+    "author": "Sample Author 2",
+    "topic": "Creativity"
+  },
+  {
+    "id": 62,
+    "text": "Sample quotation 62 for API fallback testing.",
+    "author": "Sample Author 20",
+    "topic": "Creativity"
+  },
+  {
+    "id": 63,
+    "text": "Sample quotation 63 for API fallback testing.",
+    "author": "Sample Author 2",
+    "topic": "Creativity"
+  },
+  {
+    "id": 64,
+    "text": "Sample quotation 64 for API fallback testing.",
+    "author": "Sample Author 4",
+    "topic": "Work"
+  },
+  {
+    "id": 65,
+    "text": "Sample quotation 65 for API fallback testing.",
+    "author": "Sample Author 15",
+    "topic": "Creativity"
+  },
+  {
+    "id": 66,
+    "text": "Sample quotation 66 for API fallback testing.",
+    "author": "Sample Author 10",
+    "topic": "Learning"
+  },
+  {
+    "id": 67,
+    "text": "Sample quotation 67 for API fallback testing.",
+    "author": "Sample Author 3",
+    "topic": "Work"
+  },
+  {
+    "id": 68,
+    "text": "Sample quotation 68 for API fallback testing.",
+    "author": "Sample Author 18",
+    "topic": "Work"
+  },
+  {
+    "id": 69,
+    "text": "Sample quotation 69 for API fallback testing.",
+    "author": "Sample Author 15",
+    "topic": "Learning"
+  },
+  {
+    "id": 70,
+    "text": "Sample quotation 70 for API fallback testing.",
+    "author": "Sample Author 19",
+    "topic": "Creativity"
+  },
+  {
+    "id": 71,
+    "text": "Sample quotation 71 for API fallback testing.",
+    "author": "Sample Author 10",
+    "topic": "Work"
+  },
+  {
+    "id": 72,
+    "text": "Sample quotation 72 for API fallback testing.",
+    "author": "Sample Author 20",
+    "topic": "Learning"
+  },
+  {
+    "id": 73,
+    "text": "Sample quotation 73 for API fallback testing.",
+    "author": "Sample Author 15",
+    "topic": "Learning"
+  },
+  {
+    "id": 74,
+    "text": "Sample quotation 74 for API fallback testing.",
+    "author": "Sample Author 3",
+    "topic": "Creativity"
+  },
+  {
+    "id": 75,
+    "text": "Sample quotation 75 for API fallback testing.",
+    "author": "Sample Author 5",
+    "topic": "Work"
+  },
+  {
+    "id": 76,
+    "text": "Sample quotation 76 for API fallback testing.",
+    "author": "Sample Author 18",
+    "topic": "Learning"
+  },
+  {
+    "id": 77,
+    "text": "Sample quotation 77 for API fallback testing.",
+    "author": "Sample Author 3",
+    "topic": "Creativity"
+  },
+  {
+    "id": 78,
+    "text": "Sample quotation 78 for API fallback testing.",
+    "author": "Sample Author 19",
+    "topic": "Learning"
+  },
+  {
+    "id": 79,
+    "text": "Sample quotation 79 for API fallback testing.",
+    "author": "Sample Author 11",
+    "topic": "Creativity"
+  },
+  {
+    "id": 80,
+    "text": "Sample quotation 80 for API fallback testing.",
+    "author": "Sample Author 9",
+    "topic": "Learning"
+  }
+]
